@@ -1,0 +1,15 @@
+Package: alignSeqInR
+Type: Package
+Title: Sequence Alignment (Title Case)
+Version: 0.1.0
+Author: Xiaoyi Dou
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: doAlignment function is to make optimal local alignment. 
+		Command line "doAlignment(filename1,filename2, sigma, q , r)"    
+		filename1 and filename2 are two files with sequences in fasta file.    
+		Sigma is the mismatch score (a negative integer), for the mismatched nucleotides.    
+		Q and r are gap open penalty (a non-negative integer) and gap extension penalty (a positive integer) 
+	
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
