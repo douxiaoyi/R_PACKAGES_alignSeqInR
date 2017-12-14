@@ -3,7 +3,7 @@ R packages for pairwise alignment  ----for STAT430--name_Xiaoyi Dou
 
 To run the package and function in R,
 
-    install.packages (“alignSeqInR”)
+    install.packages (“alignSeqInR_0.1.0.tar.gz”, repos = NULL)
     library(“alignSeqInR”)
     doAlignment(filename1,filename2, sigma, q , r)
     GC_Content(filename)
