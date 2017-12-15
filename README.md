@@ -1,7 +1,7 @@
 # R_PACKAGES_alignSeqR
 R packages for pairwise alignment  ----for STAT430--name_Xiaoyi Dou
 
-To run the package and function in R,
+To run the package and function in R. You should have biopython in your python
 
     install.packages (“alignSeqR_0.1.0.tar.gz”, repos = NULL)
     library(“alignSeqR”)
